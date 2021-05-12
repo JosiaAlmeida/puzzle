@@ -1,0 +1,10 @@
+D:\Escola\C#\Puzzle\bin\Debug\Puzzle.exe.config
+D:\Escola\C#\Puzzle\bin\Debug\Puzzle.exe
+D:\Escola\C#\Puzzle\bin\Debug\Puzzle.pdb
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.Form1.resources
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.exe
+D:\Escola\C#\Puzzle\obj\Debug\Puzzle.pdb
